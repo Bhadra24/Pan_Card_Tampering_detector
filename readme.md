@@ -1,4 +1,4 @@
-[View HTML file](https://raw.githubusercontent.com/Bhadra24/Pan_Card_Tampering_detector/main/README.html)
+[View HTML file](https://github.com/Bhadra24/Pan_Card_Tampering_detector/blob/23260d18290aa8f77cedc091c53c0bc43eff256f/README.html)
 
 
 
