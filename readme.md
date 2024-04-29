@@ -1,3 +1,9 @@
+[View HTML file] (https://raw.githubusercontent.com/Bhadra24/Pan_Card_Tampering_detector/main/README.html)
+
+
+
+
+
 Step to run application:
 Step 1:	Create the copy of the project.
 Step 2: Open command prompt and change your current path 
